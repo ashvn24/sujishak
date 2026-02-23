@@ -1,8 +1,19 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-import { FiMonitor, FiUsers, FiClipboard } from 'react-icons/fi';
+import { FiMonitor, FiUsers, FiClipboard, FiBarChart2 } from 'react-icons/fi';
 
 const experiences = [
+  {
+    role: 'Statistics Tutor',
+    org: 'Trivium Education',
+    duration: '2026 – Present',
+    icon: <FiBarChart2 size={24} />,
+    highlights: [
+      'Selected as an Online Statistics Tutor through subject knowledge and academic evaluation',
+      'Provide tutoring support in probability, hypothesis testing, regression, and statistical methods',
+      'Assist international students with problem solving and concept clarification',
+    ],
+  },
   {
     role: 'Online & Offline Tutor',
     org: 'My Tutor Platform',
