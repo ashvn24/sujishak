@@ -19,7 +19,7 @@ const contactItems = [
     icon: <FiLinkedin size={24} />,
     label: 'LinkedIn',
     value: 'Connect on LinkedIn',
-    href: 'https://www.linkedin.com/in/sujisha-k',
+    href: 'https://www.linkedin.com/in/sujishak99/',
   },
 ];
 

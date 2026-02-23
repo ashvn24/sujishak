@@ -4,6 +4,10 @@ import { PiCertificate } from 'react-icons/pi';
 
 const certifications = [
   {
+    title: 'UGC NET – Population Studies',
+    issuer: 'NTA – Qualified for Assistant Professorship & Research Eligibility',
+  },
+  {
     title: 'Good Clinical Practice (GCP)',
     issuer: 'ICH – International Council for Harmonisation',
   },
